@@ -1,5 +1,5 @@
 """
-meeting bot creates the first draft of the meeting report from the personal progress files.
+MeetingBot.py generates the first draft of the meeting report from the personal progress files.
 
 Version 0.1
 Author: Sanli Faez, @sanli
