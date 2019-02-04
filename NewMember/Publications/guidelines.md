@@ -1,0 +1,1 @@
+* Store the author version of your publications in this folder including the necessary source file (code) for graphs and metadata for regenerating them.
